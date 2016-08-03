@@ -25,6 +25,7 @@
     <bean id="demoService" class="com.alibaba.dubbo.config.spring.ServiceBean">
         <property name="interface" value="com.lxj.api.DemoService"/>
         <property name="ref" ref="demoServiceImpl"/>
+        <property name="filter" value="authorityFilter"/>
         <property name="application" ref="dubboApplicationConfig"/>
         <property name="registry" ref="dubboRegistryConfig"/>
         <property name="protocol" ref="dubboProtocolConfig"/>

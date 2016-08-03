@@ -10,7 +10,7 @@
 
     <properties>
         <spring_version>4.0.5.RELEASE</spring_version>
-        <dubbo_version>2.5.3-notification-fix</dubbo_version>
+        <dubbo_version>2.5.4-SNAPSHOT</dubbo_version>
         <logback_version>1.1.2</logback_version>
         <zkclient_version>0.1</zkclient_version>
         <slf4j_version>1.7.7</slf4j_version>

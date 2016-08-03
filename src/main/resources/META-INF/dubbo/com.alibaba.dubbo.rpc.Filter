@@ -1,3 +1,1 @@
-notificationProvider=net.pocrd.dubboext.NotificationProviderFilter
-apiInvokeLogger=net.pocrd.dubboext.ApiInvokeLoggerFilter
-notificationConsumer=net.pocrd.dubboext.NotificationConsumerFilter
+authorityFilter=com.lxj.filter.AuthorityFilter
