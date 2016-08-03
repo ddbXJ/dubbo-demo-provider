@@ -11,6 +11,7 @@
 .metadata
 .settings
 .idea
+.idea/*
 **/build/
 **/bin/
 **/debug/
